@@ -18,6 +18,6 @@ for i in range(start,end+1):
 print("Count:",len(count_prime),"prime and",len(count_comp),"composite numbers in the range")
 # made by 
 # probodh sahoo,tejasva aghrahari,kanak sharma
-# roll no:-444,45,43
+# roll no:-44,45,43
 # registration no:-12220565,12221307,12219836
     
